@@ -6,7 +6,7 @@ html {
     box-sizing: border-box;
 }
 body {
-    background-color: lemonchiffon;
+    background-color: aqua;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@ body {
     text-align: center;
     border: 2px solid #444;
     padding: 2em;
-    box-shadow: 2px 1px 1px maroon;
+    box-shadow: 2px 1px 1px yellow;
 }
 
 .greeting h1 {
@@ -37,7 +37,7 @@ body {
 }
 
 .highlight {
-    color: maroon;
+    color: green;
 }
 
 @media screen and (min-width: 760px) {
